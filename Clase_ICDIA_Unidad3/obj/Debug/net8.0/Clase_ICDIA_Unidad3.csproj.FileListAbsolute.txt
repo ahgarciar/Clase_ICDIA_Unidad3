@@ -1,0 +1,14 @@
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/bin/Debug/net8.0/Clase_ICDIA_Unidad3
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/bin/Debug/net8.0/Clase_ICDIA_Unidad3.deps.json
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/bin/Debug/net8.0/Clase_ICDIA_Unidad3.runtimeconfig.json
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/bin/Debug/net8.0/Clase_ICDIA_Unidad3.dll
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/bin/Debug/net8.0/Clase_ICDIA_Unidad3.pdb
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/Debug/net8.0/Clase_ICDIA_Unidad3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/Debug/net8.0/Clase_ICDIA_Unidad3.AssemblyInfoInputs.cache
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/Debug/net8.0/Clase_ICDIA_Unidad3.AssemblyInfo.cs
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/Debug/net8.0/Clase_ICDIA_Unidad3.csproj.CoreCompileInputs.cache
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/Debug/net8.0/Clase_ICDIA_Unidad3.dll
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/Debug/net8.0/refint/Clase_ICDIA_Unidad3.dll
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/Debug/net8.0/Clase_ICDIA_Unidad3.pdb
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/Debug/net8.0/Clase_ICDIA_Unidad3.genruntimeconfig.cache
+/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/Debug/net8.0/ref/Clase_ICDIA_Unidad3.dll
