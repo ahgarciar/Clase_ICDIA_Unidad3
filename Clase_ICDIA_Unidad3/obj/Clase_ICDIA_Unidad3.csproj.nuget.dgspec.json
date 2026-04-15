@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3.csproj": {}
+    "/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3.csproj": {}
   },
   "projects": {
-    "/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3.csproj": {
+    "/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3.csproj",
+        "projectUniqueName": "/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3.csproj",
         "projectName": "Clase_ICDIA_Unidad3",
-        "projectPath": "/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3.csproj",
+        "projectPath": "/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3.csproj",
         "packagesPath": "/Users/alejandrogarciaruiz/.nuget/packages/",
-        "outputPath": "/Users/alejandrogarciaruiz/Dropbox/FIT-UAT-2026-1/ICDIA_MiguelEloy/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/",
+        "outputPath": "/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA_Unidad3/Clase_ICDIA_Unidad3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alejandrogarciaruiz/.nuget/NuGet/NuGet.Config"
