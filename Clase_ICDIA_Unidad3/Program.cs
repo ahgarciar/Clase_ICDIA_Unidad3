@@ -5,7 +5,7 @@ public class Program()
     public static void Main(string[] args)
     {
         //new Runner01_ArchivoAlumno();
-        new Runner03_RegistroAlumnos();
+        new Runner05_RegistroAlumnos();
     }
     
 }

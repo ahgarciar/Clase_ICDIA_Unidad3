@@ -1,6 +1,6 @@
 namespace Clase_ICDIA_Unidad3.Programas;
 
-public class Alumno
+public class Alumno : IComparable<Alumno>
 {
     //Atributos
     private long matricula;
@@ -24,8 +24,19 @@ public class Alumno
         Matricula = matricula;
         Nombre = nombre;
     }
+
+    public Alumno(long matricula)
+    {
+        Matricula = matricula;
+    }
     
     //ToString
+    public int CompareTo(Alumno? other)
+    {
+        return //this.Matricula-other.Matricula;
+        this.Matricula.CompareTo(other.Matricula);
+    }
+
     public override string ToString()
     {
         return "(" + Matricula.ToString() + ") - " + Nombre;
