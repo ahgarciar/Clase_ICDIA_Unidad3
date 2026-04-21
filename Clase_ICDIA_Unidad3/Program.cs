@@ -5,7 +5,10 @@ public class Program()
     public static void Main(string[] args)
     {
         //new Runner01_ArchivoAlumno();
-        new Runner05_RegistroAlumnos();
+        //new Runner05_RegistroAlumnos();
+
+        new JsonTest();
+        
     }
     
 }
